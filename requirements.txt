@@ -1,0 +1,8 @@
+scrapy
+mysqlclient 
+sqlalchemy
+numpy
+pandas
+matplotlib
+flask
+
