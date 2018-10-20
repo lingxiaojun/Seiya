@@ -1,7 +1,7 @@
 
 from flask import Flask, render_template, jsonify, Response
 
-import seiya.analysis.job as job
+# import seiya.analysis.job as job
 
 app = Flask(__name__)
 
